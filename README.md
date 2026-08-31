@@ -62,5 +62,5 @@ In the ```details dashboard```, you can also click on filters for Purpose, Grade
 
 **Loan Status:** Loan Status indicates the current state of the loan (e.g., fully paid, current, default). It tracks loan performance.
 
-**Author: Jay Mewada**
+**Author: Gaural Makwana**
 
